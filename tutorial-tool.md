@@ -8,6 +8,8 @@ In this tutorial, you will learn to
 - :mouse pointer: do that
 - :game: do this & that
 
+![Tutorial Preview](https://github.com/rymc88/tutorial-intro/blob/master/tutorial-preview.gif?raw=true)
+
 ## Create the Sprite 
 
 Get the ``||variables(sprites): set mySprite to||`` block
