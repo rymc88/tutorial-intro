@@ -1,5 +1,5 @@
 {
-    "name": "Tutorial Editor",
+    "name": "Tutorial Tool",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -8,7 +8,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "tutorial-tool.md"
     ],
     "testFiles": [
         "test.ts"
