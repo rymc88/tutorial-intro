@@ -14,7 +14,7 @@ In this tutorial, you will learn to
 
 Get the ``||variables(sprites): set mySprite to||`` block
 from the ``||sprites: Sprites||`` drawer in the 
-[**tool box**](#tools "The list of block categories.").
+[**toolbox**](#tools "The list of block categories.").
 Place it in the ``||loops: on start||`` block.
 
 ----------
@@ -47,7 +47,7 @@ let mySprite = sprites.create(img`
 ## Add Dialog Box
 
 Get the ``||game: show long text "___"||`` block
-from the ``||game: Game||`` drawer in the tool box. 
+from the ``||game: Game||`` drawer in the toolbox. 
 Place it after the ``||variables(sprites): set mySprite to||`` block.
 
 ~hint This content is hidden until the user clicks here 
@@ -82,7 +82,7 @@ game.showLongText("Move Ducky using the arrow keys", DialogLayout.Bottom)
 ## Add Controls
 
 Get the ``||controller: move mySprite with buttons||`` block
-from the ``||controller: Controller||`` drawer in the tool box. 
+from the ``||controller: Controller||`` drawer in the toolbox. 
 Place it after the ``||game: show long text "___"||`` block.
 
 ----------
